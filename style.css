@@ -13,10 +13,10 @@
     height: 47%;
     z-index: -1;
 
-    .img{
-        top:0;
-        right:0
-    }
+    .img {
+        position: absolute;
+        top: 3;
+        right: 0;
 }
 
 .city{
