@@ -13,7 +13,7 @@
     height: 47%;
     z-index: -1;
 
-    .img {
+    img {
         position: absolute;
         top: 3;
         right: 0;
