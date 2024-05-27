@@ -31,5 +31,5 @@
 }}
 
 .city{
-    display: inline-flex;
+    display: flex;
 }
