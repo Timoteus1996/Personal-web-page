@@ -31,6 +31,6 @@
 }}
 
 .city{
-    position: relative;
+    position: absolute;
     display: flex;
 }
