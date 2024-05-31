@@ -19,7 +19,7 @@
     background-position: center;
     width: 100%;
     height: 47%;
-    position: absolute;
+    position: relative;
 
     img {
         position: absolute;
