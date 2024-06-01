@@ -29,6 +29,11 @@
 
 }
 
+.main-history{
+    display: flex;
+    width: 100%
+}
+
 .historical-places {
 
   display: flex;
