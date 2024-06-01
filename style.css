@@ -43,7 +43,9 @@
 
 .columns {
 
-  display: flex 
+  display: flex;
+  margin: 10px;
+  
 }
 
 
