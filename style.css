@@ -14,21 +14,21 @@
 }
 
 .introduction {
+
     background-image: url(https://capetown.today/wp-content/uploads/2023/08/rkrrpoaj.jpg) ;
     background-size: cover;
     background-position: center;
     width: 100%;
     height: 47%;
-    position: absolute;
+    background-position: absolute;
     display: flex
+}
 
-    img {
-        position: absolute;
-        top: 3;
-        right: 0;
-        
-    }
-
+.lring {
+    
+    position: absolute;
+    top: 3;
+    right: 0
 }
 
 /*.main-history{
