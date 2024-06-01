@@ -29,7 +29,11 @@
     top: 3;
     right: 0
 }
+.city{
 
+    display: flex;
+    width: 100%
+}
 /*.main-history{
     display: flex;
     width: 100%
