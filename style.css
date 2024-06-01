@@ -9,19 +9,9 @@
     border-radius:1em;
     width:20em;
     display:inline-block;
-    min-height:30em;
-    /*display:flex*/
+    min-height:30em
+
 }
-
-/*.introduction {
-
-    background-image: url(https://capetown.today/wp-content/uploads/2023/08/rkrrpoaj.jpg) height="250";
-    background-size: cover;
-    background-position: center;
-    background-size: 100%;
-    background-position: absolute;
-    display: flex;
-}*/
 
 .introduction{
     background-image: url(https://capetown.today/wp-content/uploads/2023/08/rkrrpoaj.jpg) ;
@@ -34,7 +24,7 @@
 .lring {
     
     margin-left:200px;
-    margin-top: 50px;
+    margin-top: 50px
     
 }
 
@@ -43,10 +33,6 @@
     display: flex;
     width: 100%
 }
-/*.main-history{
-    display: flex;
-    width: 100%
-}*/
 
 .historical-places {
 
@@ -59,23 +45,5 @@
 
   display: flex;
   margin: 10px;
-  background-color: blue;
+  background-color: blue
 }
-
-
-/*.introduction{
-    background-image: url(https://capetown.today/wp-content/uploads/2023/08/rkrrpoaj.jpg) ;
-    display: flex;
-    background-size: cover;
-    background-position: center;
-    position: absolute;
-    width: 100%;
-    height: 47%;
-    z-index: -1;
-
-    img {
-        position: absolute;
-        top: 3;
-        right: 0;
-    }
-}*/
