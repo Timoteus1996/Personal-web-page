@@ -34,9 +34,10 @@
 .lring {
     
    
-    margin: 200px
-    /*top: 3;
-    right: 5*/
+    margin-left:200px;
+    margin-bottom: 0;
+    margin-top: 50px;
+    
 }
 
 .city{
