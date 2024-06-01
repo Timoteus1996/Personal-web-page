@@ -20,11 +20,13 @@
     width: 100%;
     height: 47%;
     position: absolute;
+    display: flex
 
     img {
         position: absolute;
         top: 3;
         right: 0;
+        
     }
 
 }
