@@ -29,15 +29,15 @@
 
 }
 
-.main-history{
+/*.main-history{
     display: flex;
     width: 100%
-}
+}*/
 
 .historical-places {
 
   display: flex;
-  flex-wrap: wrap;
+  width: 100%
 
 }
 
