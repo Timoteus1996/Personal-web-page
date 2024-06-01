@@ -43,11 +43,7 @@
 
 .columns {
 
-  flex: 1 1 30%; 
-  margin: 10px;
-  padding: 20px;
-  background-color: #144692;
-  box-sizing: border-columns;
+  display: flex 
 }
 
 
