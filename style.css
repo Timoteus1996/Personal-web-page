@@ -48,10 +48,10 @@
   background-color: blue
 }
 
-@media (max-width: 1400px) {
-
-.body{
-  display:block;
+@media (max-width: 960px) {
+ 
+ .body{ display:block;
   order: 1;
+
 }
 }
