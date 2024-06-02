@@ -49,8 +49,9 @@
 }
 
 @media (max-width: 1400px) {
-  
+
 .body{
   display:block block;
+  order: 1;
 }
 }
