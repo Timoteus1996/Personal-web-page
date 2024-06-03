@@ -13,6 +13,15 @@
   min-height: 0.125rem;
 }
 
+
+.columns {
+
+   
+    margin: 10px;
+    background-color: blue
+  }
+  
+
 .col-1,
 .col-2,
 .col-3,
