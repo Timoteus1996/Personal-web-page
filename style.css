@@ -51,7 +51,7 @@
   @media (min-width: 960px) {
     .body,
     .pic{
-      display: flex;
+      display: block;
     }
   
    .introduction{
@@ -60,7 +60,7 @@
    }
    
     .historical-places{
-      display: flex;
+      display: block;
       width: 100%;
       gap: 20px;
   }
@@ -72,7 +72,7 @@
   }
   
     .column {
-      display: flex;
+      display: block;
       gap: 10px;
       margin-inline-start: auto;
     }
